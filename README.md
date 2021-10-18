@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 안녕하세요. Full Stack 개발자를 꿈꾸는 유태선입니다.
 
-관심기술 : Metaverse, BlockChain, MEC
+관심기술 : Metaverse, BlockChain, MEC, React, Spring Boot
 
 Notion : https://capricious-reminder-b2f.notion.site/e4be3e26a407455ba5cafafe2fa0ec7e
