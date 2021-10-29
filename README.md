@@ -19,3 +19,6 @@ Here are some ideas to get you started:
 관심기술 : Metaverse, BlockChain, MEC, React, Spring Boot
 
 Notion : https://capricious-reminder-b2f.notion.site/e4be3e26a407455ba5cafafe2fa0ec7e
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TaeSun94)](https://github.com/anuraghazra/github-readme-stats)
