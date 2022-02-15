@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-안녕하세요. Full Stack 개발자를 꿈꾸는 유태선입니다.
+안녕하세요. Blockchain 개발자 유태선입니다.
 
 관심기술 : Metaverse, BlockChain, MEC, React, Spring Boot
 
