@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 안녕하세요. Blockchain 개발자 유태선입니다.
 
-관심기술 : Metaverse, BlockChain, MEC, React, Spring Boot
+관심기술 : Metaverse, BlockChain, NFC
 
 Notion : https://capricious-reminder-b2f.notion.site/e4be3e26a407455ba5cafafe2fa0ec7e
 
